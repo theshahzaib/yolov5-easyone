@@ -1,0 +1,4 @@
+train: model_n1/train/images
+val: model_n1/valid/images
+nc: 1
+names: ['SWS']
